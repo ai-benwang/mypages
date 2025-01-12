@@ -1,5 +1,5 @@
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+this is ben Wang
 
 [Link to another page](./another-page.html).
 
